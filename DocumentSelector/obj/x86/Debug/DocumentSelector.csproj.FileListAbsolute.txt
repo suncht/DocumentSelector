@@ -21,3 +21,15 @@ E:\DocumentSelector\DocumentSelector\obj\x86\Debug\DocumentSelector.Properties.R
 E:\DocumentSelector\DocumentSelector\obj\x86\Debug\DocumentSelector.Resource1.resources
 E:\DocumentSelector\DocumentSelector\obj\x86\Debug\DocumentSelector.csproj.GenerateResource.Cache
 E:\DocumentSelector\DocumentSelector\obj\x86\Debug\DocumentSelector.Form2.resources
+D:\开发\CSharpWorkspaces\DocumentSelector\DocumentSelector\obj\x86\Debug\文件分类工具.exe
+D:\开发\CSharpWorkspaces\DocumentSelector\DocumentSelector\obj\x86\Debug\文件分类工具.pdb
+D:\开发\CSharpWorkspaces\DocumentSelector\DocumentSelector\bin\Debug\文件分类工具.exe
+D:\开发\CSharpWorkspaces\DocumentSelector\DocumentSelector\bin\Debug\文件分类工具.pdb
+D:\开发\CSharpWorkspaces\DocumentSelector\DocumentSelector\obj\x86\Debug\DocumentSelector.csprojResolveAssemblyReference.cache
+D:\开发\CSharpWorkspaces\DocumentSelector\DocumentSelector\obj\x86\Debug\文件分类工具.g.resources
+D:\开发\CSharpWorkspaces\DocumentSelector\DocumentSelector\obj\x86\Debug\DocumentSelector.Form1.resources
+D:\开发\CSharpWorkspaces\DocumentSelector\DocumentSelector\obj\x86\Debug\DocumentSelector.Form2.resources
+D:\开发\CSharpWorkspaces\DocumentSelector\DocumentSelector\obj\x86\Debug\DocumentSelector.ImageForm.resources
+D:\开发\CSharpWorkspaces\DocumentSelector\DocumentSelector\obj\x86\Debug\DocumentSelector.Properties.Resources.resources
+D:\开发\CSharpWorkspaces\DocumentSelector\DocumentSelector\obj\x86\Debug\DocumentSelector.Resource1.resources
+D:\开发\CSharpWorkspaces\DocumentSelector\DocumentSelector\obj\x86\Debug\DocumentSelector.csproj.GenerateResource.Cache
